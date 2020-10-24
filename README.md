@@ -24,4 +24,4 @@ I've also ran several repositories for my colleagues with my solutions of proble
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
-[1]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.linkedin.com/in/dawid-wijata/
