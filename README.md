@@ -2,7 +2,7 @@
 
 # Hi guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Dawid Wijata. I'm a JS / Vue.js Developer from Warsaw, Poland.  Currently, I'm doing my B. Sc. in Computer Science at WULS in Warsaw. I'm also a huge fan of League of Legends and everything connected with Linux. You can find me on [![LinkedIn][1.2]][1]
+My name is Dawid Wijata. I'm a JS / Vue.js Developer from Warsaw, Poland.  Currently, I'm doing my B. Sc. in Computer Science at WULS in Warsaw. I'm also a huge fan of everything connected with Linux. You can find me on [![LinkedIn][1.2]][1]
 
 ### :office: Commercial experience
 I have commercial experience in creating and programming digital materials e-commerce branch - display banners, newsletters, landing pages, etc. that are being used in wide-scoped marketing campains. Although, in the future I'm planning to go deeper into business logic.
