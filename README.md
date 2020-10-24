@@ -1,4 +1,4 @@
-![Front banner](banner_1.1.jpg)
+![Front banner](banner_1.2.jpg)
 
 # Hi guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
