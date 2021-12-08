@@ -29,7 +29,6 @@ In my programming career I used many technologies and software engineering conce
 #### Frontend
 
 - Angular 12
-- React, React Router, Redux
 - Vue (2 & 3), Vuex, Vue Router, Nuxt
 - single-spa
 - TypeScript / JavaScript
