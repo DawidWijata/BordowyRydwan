@@ -5,7 +5,7 @@
 My name is Dawid Wijata. I'm an Angular / .NET Full Stack Developer from Warsaw, Poland.  Currently, I'm doing my B. Sc. in Computer Science at WULS in Warsaw. I'm also a huge fan of everything connected with Linux. You can find me on [![LinkedIn][1.2]][1]
 
 ### :office: Commercial experience
-At work, I create new business solutions and maintain the existing software based mostly on Angular / .NET Core with microservices architecture. As a Junior Developer I learn about good coding practises, software architecture and project management.
+At work, I create new business solutions and maintain the existing software based mostly on Angular / .NET Core with microservices architecture.
 
 ### :mortar_board: Academic projects
 I've also ran several repositories containing projects that I make for various subjects at university. Recently I've made a tool with Python and Kivy which helps me while planning the month schedule at work.
