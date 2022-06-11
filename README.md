@@ -1,6 +1,6 @@
 ![Front banner](banner_v1.2.2.png)
 
-# Hi guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi guys!
 
 My name is Dawid Wijata. I'm an Angular / .NET Full Stack Developer from Warsaw, Poland.  Currently, I'm doing my B. Sc. in Computer Science at WULS in Warsaw. I'm also a huge fan of everything connected with Linux. You can find me on [![LinkedIn][1.2]][1]
 
