@@ -1,8 +1,7 @@
-![Front banner](banner_v1.2.2.png)
+# Dawid Wijata 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-326CE5?style=for-the-badge&logo=linkedin&logoColor=fafafa)](https://www.linkedin.com/in/dawid-wijata/?locale=en_US) [![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fafafa)](mailto:contact@dawidwijata.pl)
 
-# Hi guys!
-
-My name is Dawid Wijata. I'm a software engineer from Warsaw, Poland. I'm currently finishing my B. Sc. in Computer Science at WULS in Warsaw. You can find me on [LinkedIn](https://www.linkedin.com/in/dawid-wijata/)
+I'm a Fullstack Developer with 2 years in the industry, specialising in web application development using Angular and .NET. I love implementing solutions that are meaningful and bring income to others. I've already worked in 4 software development projects for automotive and financial companies.
 
 ### :office: Commercial experience
 My work experience is mostly based on developing and maintaining software on **Angular / .NET** environment. 
@@ -10,9 +9,9 @@ My work experience is mostly based on developing and maintaining software on **A
 ### :house: After getting all things above done
 After hours, I like developing applications which solve my everyday problems or just let me have fun :satisfied:.
 
-### :wrench: Technology stack
+## :wrench: Technology stack
 
-#### Frontend
+### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fafafa)
 ![Vue](https://img.shields.io/badge/Vue-336868?style=for-the-badge&logo=vuedotjs&logoColor=fafafa)
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fafafa)
@@ -21,7 +20,7 @@ After hours, I like developing applications which solve my everyday problems or 
 ![Material Design](https://img.shields.io/badge/Material%20Design-BC705A?style=for-the-badge&logo=materialdesign&logoColor=fafafa)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
 
-#### Backend
+### Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fafafa)
 ![C#](https://img.shields.io/badge/C%23-56418E?style=for-the-badge&logo=csharp&logoColor=fafafa)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-66418E?style=for-the-badge&logo=visualstudio&logoColor=fafafa)
