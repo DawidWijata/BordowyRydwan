@@ -7,7 +7,7 @@ I'm a Fullstack Developer located in **Warsaw, Poland**. I already have **2 year
 ### Core values
 - :family: people
 - :chart_with_upwards_trend: constant growth 
-- :open_hands: being open for gaining knowledge.
+- :open_hands: being open for gaining knowledge
 
 ### Hobbies
 - :muscle: gym sports
@@ -15,7 +15,7 @@ I'm a Fullstack Developer located in **Warsaw, Poland**. I already have **2 year
 - :ledger: European history
 
 
-## :wrench: Technology stack
+## Tech stack
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fafafa)
