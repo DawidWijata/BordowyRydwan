@@ -1,13 +1,19 @@
 # Dawid Wijata 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-326CE5?style=for-the-badge&logo=linkedin&logoColor=fafafa)](https://www.linkedin.com/in/dawid-wijata/?locale=en_US) [![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fafafa)](mailto:contact@dawidwijata.pl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-326CE5?style=for-the-badge&logo=linkedin&logoColor=fafafa)](https://www.linkedin.com/in/dawid-wijata/?locale=en_US) 
+[![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fafafa)](mailto:contact@dawidwijata.pl)
 
-I'm a Fullstack Developer with 2 years in the industry, specialising in web application development using Angular and .NET. I love implementing solutions that are meaningful and bring income to others. I've already worked in 4 software development projects for automotive and financial companies.
+I'm a Fullstack Developer located in **Warsaw, Poland**. I already have **2 years of experience** in software development. I mostly develop web applications using Angular & .NET. I'm also interested in **frontend architecture** and **microfrontends** concept. I spend pretty much time on spreading these ideas among my company's tech team.
 
-### :office: Commercial experience
-My work experience is mostly based on developing and maintaining software on **Angular / .NET** environment. 
+### Core values
+- :family: people
+- :chart_with_upwards_trend: constant growth 
+- :open_hands: being open for gaining knowledge.
 
-### :house: After getting all things above done
-After hours, I like developing applications which solve my everyday problems or just let me have fun :satisfied:.
+### Hobbies
+- :muscle: gym sports
+- :sushi: sushi making
+- :ledger: European history
+
 
 ## :wrench: Technology stack
 
