@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-326CE5?style=for-the-badge&logo=linkedin&logoColor=fafafa)](https://www.linkedin.com/in/dawid-wijata/?locale=en_US) 
 [![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fafafa)](mailto:contact@dawidwijata.pl)
 
-I'm a Fullstack Developer located in **Warsaw, Poland**. I already have **2 years of experience** in software development. I mostly develop web applications using Angular & .NET. I'm also interested in **frontend architecture** and **microfrontends** concept. I spend pretty much time on spreading these ideas among my company's tech team.
+I'm a Fullstack Developer located in **Warsaw, Poland**. I already have **3 years of experience** in software development. I mostly develop web applications using Angular & .NET. I'm also interested in **frontend architecture** and **microfrontends** concept. I spend pretty much time on spreading these ideas among my company's tech team.
 
 ### Core values
 - :family: people
